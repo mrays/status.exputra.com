@@ -14,7 +14,7 @@ sites:
 
 status-website:
   publish: true
-  baseUrl: /status.exputra.com
+  baseUrl: status.exputra.com
   apiBaseUrl: ${{ secrets.GH_PAT }}
   cname: status.exputra.com
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
