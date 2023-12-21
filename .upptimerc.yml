@@ -13,9 +13,6 @@ sites:
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
-  publish: true
-  baseUrl: /
-  apiBaseUrl: ${{ secrets.GH_PAT }}
   cname: status.exputra.com
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name ther
@@ -27,6 +24,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-
+i18n:
+  footer: This page is Monitoring for Server, powered by eXputra Designs
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
