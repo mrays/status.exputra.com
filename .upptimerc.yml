@@ -3,14 +3,25 @@ owner: mrays # Your GitHub organization or username, where this repository lives
 repo: status.exputra.com # The name of this repository
 
 sites:
+    # IDC 1
   - name: Indonesia Coconuts
-    url: https://indonesiacoconuts.com/
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://indonesiacoconuts.com
+  - name: Binuang Sakti
+    url: https://binuangsaktiperkasa.com/
+    # RW STID 1
+  - name: Global Intl Logistics
+    url: https://globalintllogistics.com
+  - name: Hinggil Spices
+    url: https://hinggil-spices.com
+  - name: Sahabat Tukang
+    url: https://sahabattukang.id
+  - name: Siputra Digital
+    url: https://siputra.digital/
+    # RW JWT
+  - name: Jasa WC 1
+    url: https://jasasedotwcterdekat.id/
+  - name: Sumur Bor
+    url: https://sumur-bor.com/
 
 status-website:
   cname: status.exputra.com
