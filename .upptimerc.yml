@@ -18,8 +18,8 @@ status-website:
   cname: status.exputra.com
   # baseUrl: /your-repo-name
   logoUrl: https://exputra.com/wp-content/uploads/2022/06/logoe-167x65.png
-  name: eXputra Server Monitor
-  introTitle: "**eXputra Server Monitor** is the Monitor for eXputra Server"
+  name: Server Monitor
+  introTitle: "**eXputra Server Monitor**"
   introMessage: Get Online Stay Online
   navbar:
     - title: Status
