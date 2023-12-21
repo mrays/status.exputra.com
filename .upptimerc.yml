@@ -9,19 +9,19 @@ sites:
   - name: Binuang Sakti
     url: https://binuangsaktiperkasa.com/
     # RW STID 1
-  - name: Global Intl Logistics
-    url: https://globalintllogistics.com
-  - name: Hinggil Spices
-    url: https://hinggil-spices.com
-  - name: Sahabat Tukang
-    url: https://sahabattukang.id
-  - name: Siputra Digital
-    url: https://siputra.digital/
-    # RW JWT
-  - name: Jasa WC 1
-    url: https://jasasedotwcterdekat.id/
-  - name: Sumur Bor
-    url: https://sumur-bor.com/
+  # - name: Global Intl Logistics
+  #   url: https://globalintllogistics.com
+  # - name: Hinggil Spices
+  #   url: https://hinggil-spices.com
+  # - name: Sahabat Tukang
+  #   url: https://sahabattukang.id
+  # - name: Siputra Digital
+  #   url: https://siputra.digital/
+  #   # RW JWT
+  # - name: Jasa WC 1
+  #   url: https://jasasedotwcterdekat.id/
+  # - name: Sumur Bor
+  #   url: https://sumur-bor.com/
 
 status-website:
   cname: status.exputra.com
