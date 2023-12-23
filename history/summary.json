@@ -4,19 +4,19 @@
     "url": "https://indonesiacoconuts.com",
     "icon": "https://icons.duckduckgo.com/ip3/indonesiacoconuts.com.ico",
     "slug": "indonesia-coconuts",
-    "status": "down",
-    "uptime": "99.57%",
-    "uptimeDay": "94.27%",
-    "uptimeWeek": "99.18%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
-    "time": 2118,
-    "timeDay": 15745,
-    "timeWeek": 3135,
-    "timeMonth": 2118,
-    "timeYear": 2118,
+    "status": "up",
+    "uptime": "99.50%",
+    "uptimeDay": "93.30%",
+    "uptimeWeek": "99.04%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
+    "time": 2976,
+    "timeDay": 15794,
+    "timeWeek": 4723,
+    "timeMonth": 2976,
+    "timeYear": 2976,
     "dailyMinutesDown": {
-      "2023-12-23": 83
+      "2023-12-23": 97
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/binuangsaktiperkasa.com.ico",
     "slug": "binuang-sakti",
     "status": "down",
-    "uptime": "97.70%",
-    "uptimeDay": "93.95%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "97.70%",
-    "uptimeYear": "97.70%",
+    "uptime": "97.29%",
+    "uptimeDay": "92.84%",
+    "uptimeWeek": "97.29%",
+    "uptimeMonth": "97.29%",
+    "uptimeYear": "97.29%",
     "time": 803,
     "timeDay": 0,
     "timeWeek": 803,
     "timeMonth": 803,
     "timeYear": 803,
     "dailyMinutesDown": {
-      "2023-12-23": 87
+      "2023-12-23": 103
     }
   },
   {
