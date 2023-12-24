@@ -4,9 +4,9 @@ repo: status.exputra.com # The name of this repository
 
 sites:
     # IDC 1
-  - name: Indonesia Coconuts
+  - name: Indonesia Coconuts (24 Juni 2024)
     url: https://indonesiacoconuts.com
-  - name: Binuang Sakti
+  - name: Binuang Sakti (05 Agustus 2024)
     url: https://binuangsaktiperkasa.com/
     # RW STID 1
   - name: Global Intl Logistics (14 Juli 2024)
@@ -30,13 +30,12 @@ sites:
     url: https://aksajasaglobal.com/
   - name: Factory Bagan Citra Lestari (13 November 2024)
     url: https://factorybagancitralestari.com
-
-    
     # VPS
-  - name: Jasa Pipa Mampet
+  - name: Jasa Pipa Mampet (22 Desember 2024)
     url: https://jasapipamampetkediri.site/
-  - name: Sumur Bor
-    url: https://sumur-bor.com/
+    # Herisa Host
+  - name: Jasa Pipa Mampet (22 Februari 2024)
+    url: https://herisa.id
 
 status-website:
   cname: status.exputra.com
