@@ -9,25 +9,27 @@ sites:
   - name: Binuang Sakti
     url: https://binuangsaktiperkasa.com/
     # RW STID 1
-  - name: Global Intl Logistics
+  - name: Global Intl Logistics (14 Juli 2024)
     url: https://globalintllogistics.com
-  - name: Hinggil Spices
+  - name: Hinggil Spices (09 Oktober 2024)
     url: https://hinggil-spices.com
-  - name: Sahabat Tukang
+  - name: Sahabat Tukang (12 Mei 2024)
     url: https://sahabattukang.id
-  - name: Siputra Digital
+  - name: Siputra Digital (24 Juni 2024)
     url: https://siputra.digital/
     # RW JWT
-  - name: Jasa WC 1
+  - name: Jasa WC Terdekat (05 Juni 2024)
     url: https://jasasedotwcterdekat.id/
-  - name: Sumur Bor
+  - name: Sumur Bor (04 Juni 2024)
     url: https://sumur-bor.com/
-  - name: Kamba Jaya Industri (2024-11-18)
+  - name: Kamba Jaya Industri (17 November 2024)
     url: https://kambajayaindustri.com/
-  - name: Fajarindo Buana Ekspress (2024-12-13)
+  - name: Fajarindo Buana Ekspress (12 Desember 2024)
     url: https://pt.fajarindobuanaexpress.com/
-  - name: Aksa Jasa Global (2024-12-07)
+  - name: Aksa Jasa Global (06 Desember 2024)
     url: https://aksajasaglobal.com/
+  - name: Factory Bagan Citra Lestari (13 November 2024)
+    url: https://factorybagancitralestari.com
 
     
     # VPS
