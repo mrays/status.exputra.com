@@ -22,11 +22,11 @@ sites:
     url: https://jasasedotwcterdekat.id/
   - name: Sumur Bor
     url: https://sumur-bor.com/
-  - name: Kamba Jaya Industri 2024-11-18
+  - name: Kamba Jaya Industri (2024-11-18)
     url: https://kambajayaindustri.com/
-  - name: Fajarindo Buana Ekspress 2024-12-13
+  - name: Fajarindo Buana Ekspress (2024-12-13)
     url: https://pt.fajarindobuanaexpress.com/
-  - name: Aksa Jasa Global 2024-12-07
+  - name: Aksa Jasa Global (2024-12-07)
     url: https://aksajasaglobal.com/
 
     
@@ -42,7 +42,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name ther
   # baseUrl: /your-repo-name
   logoUrl: https://exputra.com/wp-content/uploads/2022/06/logoe-167x65.png
-  name: 
+  name: Status
   introTitle: "**eXputra Server Monitor**"
   introMessage: Get Online Stay Online
   navbar:
