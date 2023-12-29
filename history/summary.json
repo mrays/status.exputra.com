@@ -41,18 +41,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/globalintllogistics.com.ico",
     "slug": "global-intl-logistics-14-juli-2024",
     "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "98.58%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
+    "uptime": "99.60%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
     "time": 4038,
     "timeDay": 3729,
     "timeWeek": 4038,
     "timeMonth": 4038,
     "timeYear": 4038,
     "dailyMinutesDown": {
-      "2023-12-29": 21
+      "2023-12-29": 26
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hinggil-spices.com.ico",
     "slug": "hinggil-spices-09-oktober-2024",
     "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
+    "uptime": "99.61%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
     "time": 4549,
     "timeDay": 5331,
     "timeWeek": 4549,
     "timeMonth": 4549,
     "timeYear": 4549,
     "dailyMinutesDown": {
-      "2023-12-29": 20
+      "2023-12-29": 26
     }
   },
   {
@@ -81,18 +81,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sahabattukang.id.ico",
     "slug": "sahabat-tukang-12-mei-2024",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.88%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 5033,
     "timeDay": 9482,
     "timeWeek": 5033,
     "timeMonth": 5033,
     "timeYear": 5033,
     "dailyMinutesDown": {
-      "2023-12-29": 2
+      "2023-12-29": 8
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "https://siputra.digital/",
     "icon": "https://icons.duckduckgo.com/ip3/siputra.digital.ico",
     "slug": "siputra-digital-24-juni-2024",
-    "status": "up",
-    "uptime": "99.77%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.77%",
+    "status": "down",
+    "uptime": "99.75%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 4223,
     "timeDay": 5255,
     "timeWeek": 4223,
     "timeMonth": 4223,
     "timeYear": 4223,
     "dailyMinutesDown": {
-      "2023-12-29": 15
+      "2023-12-29": 16
     }
   },
   {
@@ -247,18 +247,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/herisa.id.ico",
     "slug": "jasa-pipa-mampet-22-februari-2024",
     "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "uptime": "99.67%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 3709,
     "timeDay": 2085,
     "timeWeek": 3709,
     "timeMonth": 3709,
     "timeYear": 3709,
     "dailyMinutesDown": {
-      "2023-12-29": 16
+      "2023-12-29": 22
     }
   }
 ]
