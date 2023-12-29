@@ -40,72 +40,80 @@
     "url": "https://globalintllogistics.com",
     "icon": "https://icons.duckduckgo.com/ip3/globalintllogistics.com.ico",
     "slug": "global-intl-logistics-14-juli-2024",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 4038,
     "timeDay": 3729,
     "timeWeek": 4038,
     "timeMonth": 4038,
     "timeYear": 4038,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-29": 5
+    }
   },
   {
     "name": "Hinggil Spices (09 Oktober 2024)",
     "url": "https://hinggil-spices.com",
     "icon": "https://icons.duckduckgo.com/ip3/hinggil-spices.com.ico",
     "slug": "hinggil-spices-09-oktober-2024",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.93%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
     "time": 4549,
     "timeDay": 5331,
     "timeWeek": 4549,
     "timeMonth": 4549,
     "timeYear": 4549,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-29": 4
+    }
   },
   {
     "name": "Sahabat Tukang (12 Mei 2024)",
     "url": "https://sahabattukang.id",
     "icon": "https://icons.duckduckgo.com/ip3/sahabattukang.id.ico",
     "slug": "sahabat-tukang-12-mei-2024",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 3271,
     "timeDay": 3357,
     "timeWeek": 3271,
     "timeMonth": 3271,
     "timeYear": 3271,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-29": 3
+    }
   },
   {
     "name": "Siputra Digital (24 Juni 2024)",
     "url": "https://siputra.digital/",
     "icon": "https://icons.duckduckgo.com/ip3/siputra.digital.ico",
     "slug": "siputra-digital-24-juni-2024",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 3782,
     "timeDay": 3641,
     "timeWeek": 3782,
     "timeMonth": 3782,
     "timeYear": 3782,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-29": 2
+    }
   },
   {
     "name": "Jasa WC Terdekat (05 Juni 2024)",
@@ -238,9 +246,9 @@
     "url": "https://herisa.id",
     "icon": "https://icons.duckduckgo.com/ip3/herisa.id.ico",
     "slug": "jasa-pipa-mampet-22-februari-2024",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -249,6 +257,8 @@
     "timeWeek": 3709,
     "timeMonth": 3709,
     "timeYear": 3709,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-29": 0
+    }
   }
 ]
