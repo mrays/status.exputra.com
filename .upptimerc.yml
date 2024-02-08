@@ -33,9 +33,20 @@ sites:
     # VPS
   - name: Jasa Pipa Mampet (22 Desember 2024)
     url: https://jasapipamampetkediri.site/
+  - name: Jasa Pipa Mampet 2 (22 Januari 2025)
+    url: https://jasapipamampettulungagung.my.id/
     # Herisa Host
-  - name: Jasa Pipa Mampet (22 Februari 2024)
+  - name: Herisa.id (22 Februari 2024)
     url: https://herisa.id
+    # Herisa Host
+  - name: Muslimin Indonesia Tour (26 Januari 2026)
+    url: https://muslimindonesiatours.com
+  - name: Askatama (1 Januari 2025/1)
+    url: https://askatama.biz.id
+  - name: Sunnahstori (03 Februari 2025)
+    url: https://sunnahstori.com
+  - name: Sedot WC Dua Putri (26 Desember 2025)
+    url: https://sedotwcduaputri.my.id
 
 status-website:
   cname: status.exputra.com
