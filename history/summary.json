@@ -323,19 +323,19 @@
     "url": "https://muslimindonesiatours.com",
     "icon": "https://icons.duckduckgo.com/ip3/muslimindonesiatours.com.ico",
     "slug": "muslimin-indonesia-tour-26-januari-2026",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 4049,
-    "timeDay": 2727,
-    "timeWeek": 4049,
-    "timeMonth": 4049,
-    "timeYear": 4049,
+    "status": "up",
+    "uptime": "99.70%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
+    "time": 6627,
+    "timeDay": 8544,
+    "timeWeek": 6627,
+    "timeMonth": 6627,
+    "timeYear": 6627,
     "dailyMinutesDown": {
-      "2024-02-10": 2
+      "2024-02-10": 8
     }
   },
   {
@@ -343,19 +343,19 @@
     "url": "https://askatama.biz.id",
     "icon": "https://icons.duckduckgo.com/ip3/askatama.biz.id.ico",
     "slug": "askatama-1-januari-2025-1",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 3554,
-    "timeDay": 2434,
-    "timeWeek": 3554,
-    "timeMonth": 3554,
-    "timeYear": 3554,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 3701,
+    "timeDay": 3288,
+    "timeWeek": 3701,
+    "timeMonth": 3701,
+    "timeYear": 3701,
     "dailyMinutesDown": {
-      "2024-02-10": 0
+      "2024-02-10": 6
     }
   },
   {
