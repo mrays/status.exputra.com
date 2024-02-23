@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/globalintllogistics.com.ico",
     "slug": "global-intl-logistics-14-juli-2024",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4484,
     "timeDay": 2962,
     "timeWeek": 3920,
     "timeMonth": 4593,
     "timeYear": 4484,
-    "dailyMinutesDown": {
-      "2024-02-23": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hinggil Spices (09 Oktober 2024)",
@@ -61,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/hinggil-spices.com.ico",
     "slug": "hinggil-spices-09-oktober-2024",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4314,
     "timeDay": 4216,
     "timeWeek": 3893,
     "timeMonth": 4541,
     "timeYear": 4314,
-    "dailyMinutesDown": {
-      "2024-02-23": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sahabat Tukang (12 Mei 2024)",
@@ -81,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sahabattukang.id.ico",
     "slug": "sahabat-tukang-12-mei-2024",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3106,
     "timeDay": 2124,
     "timeWeek": 2688,
     "timeMonth": 2946,
     "timeYear": 3106,
-    "dailyMinutesDown": {
-      "2024-02-23": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Siputra Digital (24 Juni 2024)",
@@ -263,18 +257,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/herisa.id.ico",
     "slug": "herisa-id-22-februari-2024",
     "status": "down",
-    "uptime": "89.94%",
+    "uptime": "89.91%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.74%",
-    "uptimeMonth": "89.94%",
-    "uptimeYear": "89.94%",
+    "uptimeWeek": "78.66%",
+    "uptimeMonth": "89.91%",
+    "uptimeYear": "89.91%",
     "time": 5415,
     "timeDay": 0,
     "timeWeek": 3367,
     "timeMonth": 5415,
     "timeYear": 5415,
     "dailyMinutesDown": {
-      "2024-02-23": 336,
+      "2024-02-23": 344,
       "2024-02-22": 1440,
       "2024-02-21": 367
     }
@@ -320,19 +314,19 @@
     "url": "https://sunnahstori.com",
     "icon": "https://icons.duckduckgo.com/ip3/sunnahstori.com.ico",
     "slug": "sunnahstori-03-februari-2025",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5251,
-    "timeDay": 2475,
-    "timeWeek": 3136,
-    "timeMonth": 5251,
-    "timeYear": 5251,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 5200,
+    "timeDay": 2769,
+    "timeWeek": 3210,
+    "timeMonth": 5200,
+    "timeYear": 5200,
     "dailyMinutesDown": {
-      "2024-02-23": 0
+      "2024-02-23": 8
     }
   },
   {
