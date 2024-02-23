@@ -76,18 +76,20 @@
     "url": "https://sahabattukang.id",
     "icon": "https://icons.duckduckgo.com/ip3/sahabattukang.id.ico",
     "slug": "sahabat-tukang-12-mei-2024",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3106,
-    "timeDay": 2124,
-    "timeWeek": 2688,
-    "timeMonth": 2946,
-    "timeYear": 3106,
-    "dailyMinutesDown": {}
+    "time": 3079,
+    "timeDay": 1875,
+    "timeWeek": 2516,
+    "timeMonth": 2893,
+    "timeYear": 3079,
+    "dailyMinutesDown": {
+      "2024-02-23": 1
+    }
   },
   {
     "name": "Siputra Digital (24 Juni 2024)",
@@ -257,18 +259,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/herisa.id.ico",
     "slug": "herisa-id-22-februari-2024",
     "status": "down",
-    "uptime": "89.91%",
+    "uptime": "89.71%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "78.66%",
-    "uptimeMonth": "89.91%",
-    "uptimeYear": "89.91%",
+    "uptimeWeek": "78.19%",
+    "uptimeMonth": "89.71%",
+    "uptimeYear": "89.71%",
     "time": 5415,
     "timeDay": 0,
     "timeWeek": 3367,
     "timeMonth": 5415,
     "timeYear": 5415,
     "dailyMinutesDown": {
-      "2024-02-23": 344,
+      "2024-02-23": 392,
       "2024-02-22": 1440,
       "2024-02-21": 367
     }
@@ -315,19 +317,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sunnahstori.com.ico",
     "slug": "sunnahstori-03-februari-2025",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 5200,
     "timeDay": 2769,
     "timeWeek": 3210,
     "timeMonth": 5200,
     "timeYear": 5200,
-    "dailyMinutesDown": {
-      "2024-02-23": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sedot WC Dua Putri (26 Desember 2025)",
