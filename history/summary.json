@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/globalintllogistics.com.ico",
     "slug": "global-intl-logistics-14-juli-2024",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 4518,
     "timeDay": 2976,
     "timeWeek": 4098,
     "timeMonth": 4662,
     "timeYear": 4518,
-    "dailyMinutesDown": {
-      "2024-02-23": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hinggil Spices (09 Oktober 2024)",
@@ -79,19 +77,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sahabattukang.id.ico",
     "slug": "sahabat-tukang-12-mei-2024",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3147,
     "timeDay": 2650,
     "timeWeek": 2988,
     "timeMonth": 3024,
     "timeYear": 3147,
-    "dailyMinutesDown": {
-      "2024-02-23": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Siputra Digital (24 Juni 2024)",
@@ -99,19 +95,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/siputra.digital.ico",
     "slug": "siputra-digital-24-juni-2024",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3453,
     "timeDay": 2747,
     "timeWeek": 3062,
     "timeMonth": 3427,
     "timeYear": 3453,
-    "dailyMinutesDown": {
-      "2024-02-23": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Jasa WC Terdekat (05 Juni 2024)",
@@ -263,18 +257,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/herisa.id.ico",
     "slug": "herisa-id-22-februari-2024",
     "status": "down",
-    "uptime": "90.50%",
+    "uptime": "90.22%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "80.03%",
-    "uptimeMonth": "90.50%",
-    "uptimeYear": "90.50%",
+    "uptimeWeek": "79.39%",
+    "uptimeMonth": "90.22%",
+    "uptimeYear": "90.22%",
     "time": 5415,
     "timeDay": 0,
     "timeWeek": 3367,
     "timeMonth": 5415,
     "timeYear": 5415,
     "dailyMinutesDown": {
-      "2024-02-23": 206,
+      "2024-02-23": 270,
       "2024-02-22": 1440,
       "2024-02-21": 367
     }
@@ -320,18 +314,20 @@
     "url": "https://sunnahstori.com",
     "icon": "https://icons.duckduckgo.com/ip3/sunnahstori.com.ico",
     "slug": "sunnahstori-03-februari-2025",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5676,
-    "timeDay": 3514,
-    "timeWeek": 3568,
-    "timeMonth": 5676,
-    "timeYear": 5676,
-    "dailyMinutesDown": {}
+    "time": 5497,
+    "timeDay": 2533,
+    "timeWeek": 3316,
+    "timeMonth": 5497,
+    "timeYear": 5497,
+    "dailyMinutesDown": {
+      "2024-02-23": 0
+    }
   },
   {
     "name": "Sedot WC Dua Putri (26 Desember 2025)",
