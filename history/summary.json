@@ -40,19 +40,19 @@
     "url": "https://globalintllogistics.com",
     "icon": "https://icons.duckduckgo.com/ip3/globalintllogistics.com.ico",
     "slug": "global-intl-logistics-14-juli-2024",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 4375,
-    "timeDay": 2688,
-    "timeWeek": 3066,
-    "timeMonth": 4453,
-    "timeYear": 4375,
+    "time": 4347,
+    "timeDay": 2494,
+    "timeWeek": 2981,
+    "timeMonth": 4400,
+    "timeYear": 4347,
     "dailyMinutesDown": {
-      "2024-02-27": 18
+      "2024-02-27": 19
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://sahabattukang.id",
     "icon": "https://icons.duckduckgo.com/ip3/sahabattukang.id.ico",
     "slug": "sahabat-tukang-12-mei-2024",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 3016,
-    "timeDay": 2328,
-    "timeWeek": 2374,
-    "timeMonth": 2791,
-    "timeYear": 3016,
+    "time": 3001,
+    "timeDay": 2227,
+    "timeWeek": 2331,
+    "timeMonth": 2766,
+    "timeYear": 3001,
     "dailyMinutesDown": {
-      "2024-02-27": 18
+      "2024-02-27": 19
     }
   },
   {
@@ -102,9 +102,9 @@
     "slug": "siputra-digital-24-juni-2024",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "97.08%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
     "time": 3387,
     "timeDay": 2751,
@@ -112,7 +112,7 @@
     "timeMonth": 3305,
     "timeYear": 3387,
     "dailyMinutesDown": {
-      "2024-02-27": 41
+      "2024-02-27": 33
     }
   },
   {
@@ -277,18 +277,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/herisa.id.ico",
     "slug": "herisa-id-22-februari-2024",
     "status": "down",
-    "uptime": "69.10%",
+    "uptime": "69.02%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "14.99%",
-    "uptimeMonth": "69.10%",
-    "uptimeYear": "69.10%",
+    "uptimeWeek": "14.67%",
+    "uptimeMonth": "69.02%",
+    "uptimeYear": "69.02%",
     "time": 5415,
     "timeDay": 0,
     "timeWeek": 3306,
     "timeMonth": 5415,
     "timeYear": 5415,
     "dailyMinutesDown": {
-      "2024-02-27": 1002,
+      "2024-02-27": 1034,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
